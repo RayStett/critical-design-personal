@@ -1,5 +1,22 @@
 /* styles.css */
 
+body {
+	background-color: #3C6756;
+	font-family: Helvetica, Arial, sans-serif; 
+}
+
 * {
 	font-family: Arial;
+}
+
+.backgroundImage {
+	background-image: url(../img/CatWithoutBowtie.png);
+	width: 900px;
+	height: auto; 
+	margin: 64px audo; 
+}
+
+.backgroundImage:hover {
+	background-image: url(..img/clock.png);
+	cursor: crosshair; 
 }
