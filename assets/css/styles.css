@@ -15,7 +15,6 @@ h1 {
 	text-align: center; 
 }
 
-
 .backgroundImage {
 	background-image: url(../img/catWithoutBowtie.png); 
 	width: 670px;
@@ -29,7 +28,6 @@ h1 {
 
 .backgroundImage:hover {
 	background-image: url(../img/catWithBowtie.png);
-	cursor: crosshair; 
 	width: 670px;
 	height: 533px;  
 	margin: 64px auto;
