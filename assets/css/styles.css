@@ -9,14 +9,27 @@ body {
 	font-family: Arial;
 }
 
+
+
 .backgroundImage {
-	background-image: url(../img/CatWithoutBowtie.png);
-	width: 900px;
-	height: auto; 
-	margin: 64px audo; 
+	background-image: url(../img/catWithoutBowtie.png); 
+	width: 850px;
+	height: 314px; 
+	margin: 64px auto;
+	background-size: cover;
+	background-position: center;  
+	background-repeat: no-repeat;  
+	background-size: contain;
 }
 
 .backgroundImage:hover {
-	background-image: url(..img/clock.png);
+	background-image: url(../img/catWithBowtie.png);
 	cursor: crosshair; 
+	width: 850px;
+	height: 314px; 
+	margin: 64px auto;
+	background-size: cover;
+	background-position: center;  
+	background-repeat: no-repeat;  
+	background-size: contain;
 }
