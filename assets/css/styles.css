@@ -18,8 +18,8 @@ h1 {
 
 .backgroundImage {
 	background-image: url(../img/catWithoutBowtie.png); 
-	width: 850px;
-	height: 314px; 
+	width: 670px;
+	height: 533px; 
 	margin: 64px auto;
 	background-size: cover;
 	background-position: center;  
@@ -30,8 +30,8 @@ h1 {
 .backgroundImage:hover {
 	background-image: url(../img/catWithBowtie.png);
 	cursor: crosshair; 
-	width: 850px;
-	height: 314px; 
+	width: 670px;
+	height: 533px;  
 	margin: 64px auto;
 	background-size: cover;
 	background-position: center;  
