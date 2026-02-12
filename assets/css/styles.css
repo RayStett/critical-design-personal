@@ -9,6 +9,11 @@ body {
 	font-family: Arial;
 }
 
+h1 {
+	color: black; 
+	font-size: 72px; 
+	text-align: center; 
+}
 
 
 .backgroundImage {
